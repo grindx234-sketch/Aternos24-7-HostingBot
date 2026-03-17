@@ -6,16 +6,16 @@
     "type": "offline"
   },
   "server": {
-    "ip": "kingdom-FUaz.aternos.me",
-    "port": 19271,
+    "ip": "NOOBSMC20.aternos.me",
+    "port": 40709,
     "version": "",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": 612,
+    "y": 191,
+    "z": 307
   },
   "utils": {
     "auto-auth": {
@@ -47,9 +47,9 @@
     }
   },
   "movement": {
-    "enabled": true,
+    "enabled": false,
     "circle-walk": {
-      "enabled": true,
+      "enabled": false,
       "radius": 4,
       "speed": 3000
     },
@@ -59,7 +59,7 @@
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 10
     }
   },
   "modules": {
